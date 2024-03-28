@@ -30,7 +30,7 @@ eg.windows\macos\linux...
 
 在代码中，被写在代码中==**固定的值**==就是字面量
 
-![image-20240227122200701](/Users/mac/Documents/学习/python/python学习/image-20240227122200701.png)
+![image-20240227122200701]([/Users/mac/Documents/学习/python/python学习/image-20240227122200701.png](https://github.com/jolinYao/Python-note/blob/main/image-20240227122200701.png))
 
 ⚠️：在python中，字符串的写法与我们在日常生活中不太一样。==需要加上“”双引号==
 
