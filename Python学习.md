@@ -30,7 +30,7 @@ eg.windows\macos\linux...
 
 在代码中，被写在代码中==**固定的值**==就是字面量
 
-![image-20240227122200701]([/Users/mac/Documents/学习/python/python学习/image-20240227122200701.png](https://github.com/jolinYao/Python-note/blob/main/image-20240227122200701.png))
+![image-20240227122200701](https://github.com/jolinYao/Python-note/blob/main/image-20240227122200701.png)
 
 ⚠️：在python中，字符串的写法与我们在日常生活中不太一样。==需要加上“”双引号==
 
@@ -83,7 +83,7 @@ python中添加注释（注释不会影响文件运行），有利于别人看�
 
 有时候我们读取到的数据类型和我们所需要的数据类型是不一样的，这时候我们就需要数据类型转换。
 
-![image-20240227122215202](/Users/mac/Documents/学习/python/python学习/image-20240227122215202.png)
+![image-20240227122215202](https://github.com/jolinYao/Python-note/blob/main/image-20240227122215202.png)
 
 注意⚠️：
 
@@ -111,17 +111,17 @@ python中添加注释（注释不会影响文件运行），有利于别人看�
 
 - 不可以使用关键字（也大小写敏感）
 
-![image-20240227122227861](/Users/mac/Documents/学习/python/python学习/image-20240227122227861.png)
+![image-20240227122227861](https://github.com/jolinYao/Python-note/blob/main/image-20240227122227861.png)
 
 ## 09.运算符
 
 基础运算符：
 
-![image-20240227122237554](/Users/mac/Documents/学习/python/python学习/image-20240227122237554.png)
+![image-20240227122237554](https://github.com/jolinYao/Python-note/blob/main/image-20240227122237554.png)
 
 赋值运算符
 
-![image-20240227150530701](/Users/mac/Documents/学习/python/python学习/image-20240227150530701.png)
+![image-20240227150530701](https://github.com/jolinYao/Python-note/blob/main/image-20240227150530701.png)
 
 ## 10.字符串三种拓展
 
@@ -135,29 +135,29 @@ python中添加注释（注释不会影响文件运行），有利于别人看�
 
 注意⚠️：这三种都可以定义字符串，效果是一样的
 
-![image-20240227151558145](/Users/mac/Documents/学习/python/python学习/image-20240227151558145.png)
+![image-20240227151558145](https://github.com/jolinYao/Python-note/blob/main/image-20240227151558145.png)
 
 例子1：
 
-![image-20240227151727353](/Users/mac/Documents/学习/python/python学习/image-20240227151727353.png)
+![image-20240227151727353](https://github.com/jolinYao/Python-note/blob/main/image-20240227151727353.png)
 
-![image-20240227151805923](/Users/mac/Documents/学习/python/python学习/image-20240227151805923.png)
+![image-20240227151805923](https://github.com/jolinYao/Python-note/blob/main/image-20240227151805923.png)
 
 例子2:
 
-![image-20240227152121736](/Users/mac/Documents/学习/python/python学习/image-20240227152121736.png)
+![image-20240227152121736](https://github.com/jolinYao/Python-note/blob/main/image-20240227152121736.png)
 
-![image-20240227152137970](/Users/mac/Documents/学习/python/python学习/image-20240227152137970.png)
+![image-20240227152137970](https://github.com/jolinYao/Python-note/blob/main/image-20240227152137970.png)
 
 ## 11.字符串的拼接
 
 如果我们有两个字符串，将其拼接成一个字符串，通过+号即可完成
 
-![image-20240227152736881](/Users/mac/Documents/学习/python/python学习/image-20240227152736881.png)
+![image-20240227152736881](https://github.com/jolinYao/Python-note/blob/main/image-20240227152736881.png)
 
 ## 12.字符串格式化
 
-![image-20240227153406716](/Users/mac/Documents/学习/python/python学习/image-20240227153406716.png)
+![image-20240227153406716](https://github.com/jolinYao/Python-note/blob/main/image-20240227153406716.png)
 
 - **占位型拼接格式化**
 
@@ -169,19 +169,19 @@ python中添加注释（注释不会影响文件运行），有利于别人看�
 
 `message="The class %s,after learning python,the average salary is %s."%(class_num,avg_salary)`
 
-![image-20240227155534047](/Users/mac/Documents/学习/python/python学习/image-20240227155534047.png)
+![image-20240227155534047](https://github.com/jolinYao/Python-note/blob/main/image-20240227155534047.png)
 
-![image-20240227155634111](/Users/mac/Documents/学习/python/python学习/image-20240227155634111.png)
+![image-20240227155634111](https://github.com/jolinYao/Python-note/blob/main/image-20240227155634111.png)
 
 - **格式化精度控制**（占位型）
 
-![image-20240227155816578](/Users/mac/Documents/学习/python/python学习/image-20240227155816578.png)
+![image-20240227155816578](https://github.com/jolinYao/Python-note/blob/main/image-20240227155816578.png)
 
 注意⚠️：
 
 1. `m.n`要求是数字才可以用
 
-   ![image-20240227160250350](/Users/mac/Documents/学习/python/python学习/image-20240227160250350.png)
+   ![image-20240227160250350](https://github.com/jolinYao/Python-note/blob/main/image-20240227160250350.png)
 
 ```python
 num=11.1234
@@ -215,7 +215,7 @@ print(f"他是{name},他出身于{brith_year},他现在的月薪是{month_salary
 
 <u>一条具==有明确执行结果==的代码语句，就称之为表达式</u>
 
-![image-20240227162804948](/Users/mac/Documents/学习/python/python学习/image-20240227162804948.png)
+![image-20240227162804948](https://github.com/jolinYao/Python-note/blob/main/image-20240227162804948.png)
 
 ```python
 print("1*1的结果是 %s" %(1*1))
@@ -300,7 +300,7 @@ print(f"the result of 10>5 is {result},the result type of 10>5 is :{type(result)
 
 - **比较运算**
 
-![image-20240228094600327](/Users/mac/Documents/学习/python/python学习/image-20240228094600327.png)
+![image-20240228094600327](https://github.com/jolinYao/Python-note/blob/main/image-20240228094600327.png)
 
 ```python
 # ==
@@ -414,7 +414,7 @@ have a good time!
 
 在某些场景下，判断条件不止一个时，我们需要
 
-![image-20240228102645830](/Users/mac/Documents/学习/python/python学习/image-20240228102645830-9087206.png)
+![image-20240228102645830](https://github.com/jolinYao/Python-note/blob/main/image-20240228102645830-9087206.png)
 
 方法一：
 
@@ -462,7 +462,7 @@ have a good time!
 ```
 
 **小练习：**
-![image-20240228112804963](/Users/mac/Documents/学习/python/python学习/image-20240228112804963.png)
+![image-20240228112804963](https://github.com/jolinYao/Python-note/blob/main/image-20240228112804963.png)
 
 ```python
 # 定义一个数字
@@ -503,7 +503,7 @@ else:
 
 **例题：**
 
-![image-20240228121251094](/Users/mac/Documents/学习/python/python学习/image-20240228121251094.png)
+![image-20240228121251094](https://github.com/jolinYao/Python-note/blob/main/image-20240228121251094.png)
 
 ```python
 age=int(input("请输入你的年龄："))
@@ -528,7 +528,7 @@ else:
 ```
 
 **例题：**
-![image-20240228131619650](/Users/mac/Documents/学习/python/python学习/image-20240228131619650.png)
+![image-20240228131619650](https://github.com/jolinYao/Python-note/blob/main/image-20240228131619650.png)
 
 ```python
 #方法一
@@ -591,7 +591,7 @@ else:
 
 ## 19.while语句循环基础
 
-![image-20240228164658882](/Users/mac/Documents/学习/python/python学习/image-20240228164658882-9110019.png)
+![image-20240228164658882](https://github.com/jolinYao/Python-note/blob/main/image-20240228164658882-9110019.png)
 
 **while中循环条件可以是一个变量值，每循环一次，while值加1**
 
@@ -608,7 +608,7 @@ while i<10:
 2. 循环一样需要空格缩进来判断从属关系
 
 **小练习：**
-![image-20240228170129662](/Users/mac/Documents/学习/python/python学习/image-20240228170129662-9110890.png)
+![image-20240228170129662](https://github.com/jolinYao/Python-note/blob/main/image-20240228170129662-9110890.png)
 
 ```python
 i=1
@@ -854,7 +854,7 @@ for i in range(1,10):
 **contiue**：
 中断本次循环，直接加入下一次循环
 
-![image-20240229162342211](/Users/mac/Documents/学习/python/python学习/image-20240229162342211.png)
+![image-20240229162342211](https://github.com/jolinYao/Python-note/blob/main/image-20240229162342211.png)
 
 ```python
 for  i in range(2):
@@ -1229,7 +1229,7 @@ print(type(list_2))
 
 **列表的下标索引：**
 
-![image-20240302114121131](/Users/mac/Documents/学习/python/python学习/image-20240302114121131.png)
+![image-20240302114121131](https://github.com/jolinYao/Python-note/blob/main/image-20240302114121131.png)
 
 注意⚠️：坐标索引不要超过范围，会报错
 
@@ -1238,7 +1238,7 @@ print(type(list_2))
 
 从前向后是0开始（0、1、2、3....）
 
-![image-20240302114346765](/Users/mac/Documents/学习/python/python学习/image-20240302114346765.png)
+![image-20240302114346765](https://github.com/jolinYao/Python-note/blob/main/image-20240302114346765.png)
 
 **倒序输出：**
 
@@ -1254,7 +1254,7 @@ print(list_2[-1])
 
 如果是**嵌套列表，如何取值**呢？
 
-![image-20240302114502808](/Users/mac/Documents/学习/python/python学习/image-20240302114502808.png)
+![image-20240302114502808](https://github.com/jolinYao/Python-note/blob/main/image-20240302114502808.png)
 
 `列表[][]`
 
@@ -1757,7 +1757,7 @@ print(new_list4)
 
 ## 36.集合
 
-![image-20240304145707900](/Users/mac/Documents/学习/python/python学习/image-20240304145707900.png)
+![image-20240304145707900](https://github.com/jolinYao/Python-note/blob/main/image-20240304145707900.png)
 
 局限性在于，支持重复元素且有序
 
@@ -1990,7 +1990,7 @@ print(score)
 
 **字典的嵌套：**
 
-![image-20240304192551295](/Users/mac/Documents/学习/python/python学习/image-20240304192551295.png)
+![image-20240304192551295](https://github.com/jolinYao/Python-note/blob/main/image-20240304192551295.png)
 
 ```python
 score_dist={"jack":{"chinese":77,"math":66,"English":33},
@@ -2111,7 +2111,7 @@ print(num)
 ```
 
 **小练习：**
-![image-20240305101940467](/Users/mac/Documents/学习/python/python学习/image-20240305101940467.png)
+![image-20240305101940467](https://github.com/jolinYao/Python-note/blob/main/image-20240305101940467.png)
 
 ```python
 satff_dist={"王力宏":{"department":"technology department","salary":3000,"level":1},
@@ -2132,7 +2132,7 @@ print(satff_dist)
 
 ## 38.类数据容器
 
-![image-20240305105810584](/Users/mac/Documents/学习/python/python学习/image-20240305105810584.png)
+![image-20240305105810584](https://github.com/jolinYao/Python-note/blob/main/image-20240305105810584.png)
 
 **不支持下标索引和重复元素**：
 
@@ -2145,9 +2145,9 @@ print(satff_dist)
 
 <u>支持：列表、集合、字典</u>
 
-![image-20240305110448391](/Users/mac/Documents/学习/python/python学习/image-20240305110448391.png)
+![image-20240305110448391](https://github.com/jolinYao/Python-note/blob/main/image-20240305110448391.png)
 
-![image-20240305110609397](/Users/mac/Documents/学习/python/python学习/image-20240305110609397.png)
+![image-20240305110609397](https://github.com/jolinYao/Python-note/blob/main/image-20240305110609397.png)
 
 ## 39.数据容器的通用操作
 
@@ -2310,7 +2310,7 @@ print(sorted(my_dict,reverse=True))
 
 那么，它是以怎样的方式进行排序的呢？
 
-![image-20240305151722022](/Users/mac/Documents/学习/python/python学习/image-20240305151722022.png)
+![image-20240305151722022](https://github.com/jolinYao/Python-note/blob/main/image-20240305151722022.png)
 
 通过ASCII码表中的<u>==码值==进行比较</u>
 
@@ -2480,7 +2480,7 @@ f=open('python.txt','r',encoding=UTF-8) # 要使用关键字传参
 
 其中，f是open函数的文件对象，拥有属性和方法，可以使用对.属性或者对象.方法对其进行访问
 
-![image-20240306114058802](/Users/mac/Documents/学习/python/python学习/image-20240306114058802.png)
+![image-20240306114058802](https://github.com/jolinYao/Python-note/blob/main/image-20240306114058802.png)
 
 ```python
 f=open('python.txt','w',encoding="UTF-8")
@@ -2887,7 +2887,7 @@ python模块就是文件；
 
 python包就可以看成是一个<u>文件夹</u>，包的作用就是包含多个模块，帮助我们管理模块
 
-![image-20240307210227204](/Users/mac/Documents/学习/python/python学习/image-20240307210227204.png)
+![image-20240307210227204](https://github.com/jolinYao/Python-note/blob/main/image-20240307210227204.png)
 
 `__init.py__`存在在文件夹里面的话就是python包，如果没有就算普通文件夹
 
@@ -2937,7 +2937,7 @@ my_module2.info_print2()
 
 - **安装第三方包**
 
-![image-20240307214752880](/Users/mac/Documents/学习/python/python学习/image-20240307214752880.png)
+![image-20240307214752880](https://github.com/jolinYao/Python-note/blob/main/image-20240307214752880.png)
 
 但是由于是第三方包，python没有内置，所以我们需要安装它们才能导入使用
 
@@ -2952,7 +2952,7 @@ pip install 包名称
 即可通过网络快速安装第三方包
 
 **综合练习：**
-![image-20240307222231497](/Users/mac/Documents/学习/python/python学习/image-20240307222231497.png)
+![image-20240307222231497](https://github.com/jolinYao/Python-note/blob/main/image-20240307222231497.png)
 
 ```python
 def str_reverse(s):
@@ -3082,7 +3082,7 @@ line.render() # 生成图表
 
 `set_gobal_opts`配置标题、图例、工具箱等
 
-![image-20240310225033567](/Users/mac/Documents/学习/python/python学习/image-20240310225033567.png)
+![image-20240310225033567](https://github.com/jolinYao/Python-note/blob/main/image-20240310225033567.png)
 
 ```python
 from pyecharts.charts import Line
@@ -3229,7 +3229,7 @@ print(f"The id: {clock2.id},the price:{clock2.price}")
 
 ## 52.构造方法
 
-![image-20240312113955989](/Users/mac/Documents/学习/python/python学习/image-20240312113955989.png)
+![image-20240312113955989](https://github.com/jolinYao/Python-note/blob/main/image-20240312113955989.png)
 
 - 属性变量赋值
 
@@ -3349,7 +3349,7 @@ True
 
 既然现实事物有不公开的属性和行为，那么作为现实事物在程序中映射的类，也应该支持<u>私有成员变量</u>、<u>私有成员方法</u>。
 
-![image-20240312155402188](/Users/mac/Documents/学习/python/python学习/image-20240312155402188.png)
+![image-20240312155402188](https://github.com/jolinYao/Python-note/blob/main/image-20240312155402188.png)
 
 ```python
 class Phone:
@@ -3393,7 +3393,7 @@ phone.call_by_5g()
 ```
 
 **小练习：**
-![image-20240312164105574](/Users/mac/Documents/学习/python/python学习/image-20240312164105574.png)
+![image-20240312164105574](https://github.com/jolinYao/Python-note/blob/main/image-20240312164105574.png)
 
 ```python
 class Phone:
@@ -3416,7 +3416,7 @@ calling...
 
 ## 55.继承
 
-![image-20240312171253188](/Users/mac/Documents/学习/python/python学习/image-20240312171253188.png)
+![image-20240312171253188](https://github.com/jolinYao/Python-note/blob/main/image-20240312171253188.png)
 
 基于**之前的类**进行修改
 
@@ -3592,7 +3592,7 @@ CAST
 
 ## 56.类型注解
 
-![image-20240312215930860](/Users/mac/Documents/学习/python/python学习/image-20240312215930860.png)
+![image-20240312215930860](https://github.com/jolinYao/Python-note/blob/main/image-20240312215930860.png)
 
 - 变量
 
@@ -3656,7 +3656,7 @@ var_3=func() # type:int
 
 1. 一般在<u>无法直接看到变量类型</u>的时候添加变量的类型注解
 
-![image-20240312224313975](/Users/mac/Documents/学习/python/python学习/image-20240312224313975.png)
+![image-20240312224313975](https://github.com/jolinYao/Python-note/blob/main/image-20240312224313975.png)
 
 2. 类型注解只是提示性的，**并不会对真正的类型做验证和判断**
 
@@ -3668,7 +3668,7 @@ var_2:str=1
 
 - 函数和方法类型注解
 
-![image-20240312225316552](/Users/mac/Documents/学习/python/python学习/image-20240312225316552.png)
+![image-20240312225316552](https://github.com/jolinYao/Python-note/blob/main/image-20240312225316552.png)
 
 ```python
 # 对形参进行注解
